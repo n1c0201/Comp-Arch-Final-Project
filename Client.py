@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 19 16:09:57 2021
-
-@author: jerem
-"""
-
 import socket
 
 HEADER = 64

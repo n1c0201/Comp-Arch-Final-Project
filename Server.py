@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 19 15:13:02 2021
-
-@author: jerem
-"""
-
 import socket
 import threading
 
